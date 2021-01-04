@@ -3,7 +3,7 @@ function shout(str) {
 }
 
 function whisper(str) {
-  return str.toUpperCase()
+  return str.toLowerCase()
 }
 
 function logShout(str) {
@@ -11,5 +11,5 @@ function logShout(str) {
 }
 
 function logWhisper(str) {
-  return str.toUpperCase()
+  return str.toLowerCase()
 }
