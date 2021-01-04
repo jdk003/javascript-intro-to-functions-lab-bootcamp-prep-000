@@ -14,10 +14,9 @@ function logWhisper(str) {
   return str.toLowerCase()
 }
 
-function logWhisper(str) {
-  return str.toLowerCase()
+function sayHiToGrandma(str) {
+  if (str === str.toLowerCase()) {
+    return ""
+  }
 }
 
-function logWhisper(str) {
-  return str.toLowerCase()
-}
