@@ -13,3 +13,11 @@ function logShout(str) {
 function logWhisper(str) {
   return str.toLowerCase()
 }
+
+function logWhisper(str) {
+  return str.toLowerCase()
+}
+
+function logWhisper(str) {
+  return str.toLowerCase()
+}
